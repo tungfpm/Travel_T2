@@ -1,0 +1,43 @@
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.gray {
+	background-color: gray;
+}
+.no-padding {
+	padding: 0px;
+}
+.no-margin {
+	margin: 0px;
+}
+
+.wrapper {
+	height: 700px;
+}
+.header {
+	margin-top: 10px;
+}
+.header h3 {
+	text-align: center;
+	color: blue;
+}
+.vertical {
+	display: table;
+}
+.vertical-middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+.menu-nav {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.search {
+
+}
